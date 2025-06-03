@@ -16,6 +16,7 @@ Informe: aquí se incluye un resumen de las actividades realizadas en el noteboo
 
 Cómo usar este proyecto
 Ingresa a la URL: https://github.com/Khoval94/desafio_data_science_telecomX.git
+
 dirigete al archivo:telecomx_latam_1.ipynb
 
 
