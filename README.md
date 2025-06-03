@@ -15,14 +15,14 @@ Carga y análisis: en esta sección se desarrollan distintos análisis y visuali
 Informe: aquí se incluye un resumen de las actividades realizadas en el notebook, junto con conclusiones e insights clave, además de recomendaciones orientadas a reducir la tasa de cancelación.
 
 Cómo usar este proyecto
-Ingresa a la URL:
-https://github.com/Monica-Restrepo/Desafio2-ciencia-de-datos/blob/main/desafio2_data_science.ipynb
+Ingresa a la URL: https://github.com/Khoval94/desafio_data_science_telecomX.git
+
 
 Haz clic en "Open in Colab" para abrir el archivo en Google Colab y ejecutar el código o realizar modificaciones.
 
 Dónde los usuarios pueden encontrar ayuda sobre este proyecto:
 Si tienes alguna pregunta o necesitas asistencia con este proyecto, puedes escribir al correo:
-cristian.camilo.rueda@gmail.com
+kristian.rueda94@gmail.com
 
 Autor del proyecto:
-Cristian Camilo Rueda, estudiante de Desarrollo de Software.
+Cristian Camilo Rueda, estudiante de Desarrollo de Software y ciencia de datos.
